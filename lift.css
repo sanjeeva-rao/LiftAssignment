@@ -1,0 +1,48 @@
+#total{
+    border-style: solid;
+    height: 12cm;
+    width: 20cm;
+}
+#floor4{
+    border-style: solid;
+    height: 1cm;
+    width: 5cm;
+}
+#floor3{
+    border-style: solid;
+    height: 1cm;
+    width: 5cm;
+}
+#floor2{
+    border-style: solid;
+    height: 1cm;
+    width: 5cm;
+}
+#floor1{
+    border-style: solid;
+    height: 1cm;
+    width: 5cm;
+}
+#result{
+    border-style: solid;
+    height: 2cm;
+    width: 10cm;
+    background-color: yellowgreen;
+    text-align: center;
+    position: relative;
+    left: 2cm;
+}
+.pick{
+    color: red;
+}
+.drop{
+    color: blue;
+}
+#waiting{
+    color: darkgreen;
+}
+
+#input{
+    position: relative;
+    left: 4cm;
+}
